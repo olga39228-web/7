@@ -1,0 +1,40 @@
+{
+  "NewsArray": [
+    {
+      "newId": 1,
+      "newsDate": "Дата новости",
+      "newsTitle": "Заголовок новости",
+      "newsDescription": "Описание новости"
+    },
+    {
+      "newId": 2,
+      "newsDate": "Дата новости",
+      "newsTitle": "Заголовок новости",
+      "newsDescription": "Описание новости"
+    },
+    {
+      "newId": 3,
+      "newsDate": "Дата новости",
+      "newsTitle": "Заголовок новости",
+      "newsDescription": "Описание новости"
+    },
+    {
+      "newId": 4,
+      "newsDate": "Дата новости",
+      "newsTitle": "Заголовок новости",
+      "newsDescription": "Описание новости"
+    },
+    {
+      "newId": 5,
+      "newsDate": "Дата новости",
+      "newsTitle": "Заголовок новости",
+      "newsDescription": "Описание новости"
+    },
+    {
+      "newId": 6,
+      "newsDate": "Дата новости",
+      "newsTitle": "Заголовок новости",
+      "newsDescription": "Описание новости"
+    }
+  ]
+}
